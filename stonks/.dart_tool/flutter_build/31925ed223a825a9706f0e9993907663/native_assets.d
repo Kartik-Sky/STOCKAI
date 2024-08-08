@@ -1,0 +1,1 @@
+ C:\\SHIELD\\PROJECTS\\STOCK_MARKET\\stonks\\.dart_tool\\flutter_build\\31925ed223a825a9706f0e9993907663\\native_assets.yaml: 
